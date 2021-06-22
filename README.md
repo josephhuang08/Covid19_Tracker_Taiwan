@@ -1,5 +1,5 @@
 # Covid19_Tracker_Taiwan
-This program will show data of Covid-19 in Taiwan
+The program categorises and summarizes Covid-19 data in Taiwan.
 
 ![usage example](media/explainer.png)
 ## What is Covid19_Traker_Taiwan?

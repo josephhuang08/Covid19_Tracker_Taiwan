@@ -40,13 +40,13 @@ Run this program as any other python code or double click on **.exe** file.
 However, each input must be in the correct range since this program does not handle errors.
 Enter 1~6 as input corresponding to the list of context.  
 
-For choice 2, enter anthoer input as x.  
+For choice 2, enter anthor input as x.  
 ![choice2](media/choice2.png)
 
 For choice 3 ~ 6, enter a date with format `yyyy/mm/dd`, or enter `0` for all of the data.  
 ![choice3](media/choice3.png)
 
-After seeing the results, the user can chose to write the results to a **.txt** file.  
+After seeing the results, the user can choose to write the results to a **.txt** file.  
 ![write](media/write.png)
 
 Enter 9 to exit the program.

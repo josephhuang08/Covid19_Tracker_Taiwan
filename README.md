@@ -37,7 +37,7 @@ Clone or download this repository.
 <!-- USAGE EXAMPLES -->
 ## How to use
 Run this program as any other python code or double click on **.exe** file.  
-However, each input must be in the correct range since this program does not handle errors.
+However, each input must be in the correct range since this program does not handle errors.  
 Enter 1~6 as input corresponding to the list of context.  
 
 For choice 2, enter anthor input as x.  
